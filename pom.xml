@@ -18,7 +18,7 @@
 	  
 	  <properties>
 	    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	    <jetty.version>9.1.4.v20140401</jetty.version>
+	    <jetty.version>11.0.2</jetty.version>
 	    <jetty.jsp.version>9.1.4.v20140401</jetty.jsp.version>
 	    <spring.version>4.0.4.RELEASE</spring.version>
 	  </properties>
